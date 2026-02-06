@@ -1,0 +1,7 @@
+{
+  "name": "CosmoKids Explorer",
+  "description": "An interactive space education journey for children featuring a traveling satellite companion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
