@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1ydrUO5uYNjz3vmIV7yj1kCX5CMbpR4AO
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+<<<<<<< 
+=======
+# SCT_WD_1
+An interactive space learning website for kids with animated satellite navigation, detailed planet and constellation content, a space quiz module, and an AI chatbot powered by Gemini for answering space-related questions.
+>>>>>>> 5784feddbad8a96e6f841b7a81016b1a35eed290
