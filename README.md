@@ -20,3 +20,7 @@ I built an interactive web platform designed to make learning about space exciti
 • Gemini-powered AI chatbot
 • Web Speech APIs for voice interactions
 
+
+
+https://github.com/user-attachments/assets/53447d2d-b051-4e2f-b2a1-3f9ae77542a9
+
